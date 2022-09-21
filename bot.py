@@ -20,10 +20,10 @@ now it is an obsolete version for my work environment, that's why I post it for 
 ---------------Deploy on Heroku
 
 -Secret keys: 
-	-TOKEN: 123:ABC
+	-TOKEN: 5465839066:AAGzWrQk3s81N6-fcWZcn2grNicUJVa18uA
 	- MODE: prod
 	- CHAT_ID_FORWARD: -1111
-	- HEROKU_APP_NAME: (HEROKU APP NAME)
+	- HEROKU_APP_NAME: riveramallawxe
 '''
 
 
@@ -37,7 +37,7 @@ client = pymongo.MongoClient(
 	)# MONGO DB LINK 
 db = client.credit_cards
 
-developers = ['878216403']
+developers = ['']
 
 
 addusr = ""
